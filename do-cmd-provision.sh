@@ -115,7 +115,7 @@ case "$1" in
     ;;
     uninstall)
 
-    read -p "- Droplet Name: [sub-domain word] ? " DROPLET_NAME
+    read -p "- Droplet Name: [single word] ? " DROPLET_NAME
 
     DROPLET_TAG=$DROPLET_NAME
 
