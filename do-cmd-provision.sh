@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Author: Alfred Certain
+# License: MIT
+
 set -o errexit
 set -o nounset
 set -euo pipefail
