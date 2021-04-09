@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Author: Alfred Certain
+# www.alfredcertain.com
 # License: MIT
 
 set -o errexit
